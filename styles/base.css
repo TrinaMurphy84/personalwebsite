@@ -1,0 +1,51 @@
+
+
+
+body {
+  
+   background-image: url(../images/dream.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: 55%;
+
+
+ }
+
+
+.wrapper{
+  margin:20px;
+  padding:30px;
+  margin-bottom:100px;
+  width:100%;
+  text-align:center;
+  width:1200px;
+  height:1000px;
+
+}
+
+#header {
+  text-align: left;
+}
+
+
+#nav ul li{
+  display:inline;
+  text-decoration: none;
+  font-family: 'smudger LET';
+  font-size: 26;
+  float:right;
+  padding:10px;
+  margin-right: 0px;
+  margin:-10px;
+
+}
+
+
+#submit_message {
+	display:none;
+}
+
+#footer{
+  background-color: rgb(236,228,187);
+  text-align: center;
+}
