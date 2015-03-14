@@ -2,25 +2,20 @@
 
 
 body {
-  
-   background-image: url(../images/dream.jpg);
    background-repeat: no-repeat;
    background-position: center center;
    background-size: 55%;
-
 
  }
 
 
 .wrapper{
   margin:20px;
-  padding:30px;
-  margin-bottom:100px;
-  width:100%;
+  padding:20px;
+  margin-bottom:20px;
   text-align:center;
   width:1200px;
   height:1000px;
-
 }
 
 #header {
@@ -32,12 +27,11 @@ body {
   display:inline;
   text-decoration: none;
   font-family: 'smudger LET';
-  font-size: 26;
+  font-size: 22;
   float:right;
-  padding:10px;
+  padding:5px;
   margin-right: 0px;
   margin:-10px;
-
 }
 
 
@@ -48,4 +42,8 @@ body {
 #footer{
   background-color: rgb(236,228,187);
   text-align: center;
+}
+
+a:hover{
+  color:gray;
 }

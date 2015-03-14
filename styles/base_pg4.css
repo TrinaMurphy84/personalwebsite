@@ -5,7 +5,7 @@
 
 
 body{
-	font-family: url (fonts/sinkin-sans.opc);
+	font-family: 'calibri';
 	padding:26px;
 }
 
@@ -16,19 +16,21 @@ body{
 	font-size: 16px;
 	font-weight: bold;
 	list-style: none;
-	padding:20px;
+	padding:30px;
 	background-image:url(../images/the-deep.jpg);
+	font-family: 'calibri'; 
+	border-radius: 
 	
 }
 
-.form_field{
-	border-radius: 2em;
+#field1{
+	border-radius: 3em;
 }
+
 
 .wrapper{
   margin:20px;
   padding:30px;
-  margin-bottom:100px;
   width:100%;
   width:1200px;
   height:1000px;
@@ -39,3 +41,6 @@ body{
 
 }
 
+a:hover{
+  color:gray;
+}

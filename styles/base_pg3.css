@@ -7,28 +7,47 @@
 
 
 body{
-	font-family: url (fonts/sinkin-sans.opc);
+	font-family: 'calibri';
 	padding:38px;
+	color:black;
 	
 }
 
 #content1{
 	padding:none;
-	font-size: 12px;
+	font-size: 18px;
 	text-align: center;
-	color: black;
+	color: black ;
+	font-family: 'Graphite Std';
+	font-weight: bold;
 }
 
 .column{	
   float:left;
   padding: 30px;
   text-align: center;
+  color:black;
 }
 
 .content {
   width:100%;
   display:block;
-  font-family: url (fonts/sinkin-sans.opc);
+  font-family: 'calibri';
   text-align: center;
 }
 
+a:hover{
+  color:gray;
+}
+
+#content2{ 
+	font-color: black;
+}
+
+#content3{
+	font-color:black;
+}
+
+#content4{
+	font-color:black;
+}
